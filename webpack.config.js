@@ -9,5 +9,3 @@ module.exports = {
     }
 };
 
-const FileWatcherPlugin = require("file-watcher-webpack-plugin");
-// ...
